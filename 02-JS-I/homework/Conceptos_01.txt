@@ -1,0 +1,10 @@
+VARIABLES: Se le asigna valores que los guarda en un lugar dondes después los puedo recuperar de alguna forma.
+
+STRINGS: Es una cadena de caracteres.
+
+FUNCIONES: Agrupan código que van a usar muchas veces, lo guarda y ejecuta. Sirven para no repetir. Pueden recibir argumentos como no.
+		   Las funciones retornadas, devuleven algo.
+
+DECLARACIONES IF: Permiten agregar lógica al código. Por cada condición hay un código distinto.
+
+VALORES BOOLEANOS: Solo devuelve dos valores "True" (verdadero) y "False" (falso). 

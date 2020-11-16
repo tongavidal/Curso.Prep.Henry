@@ -1,0 +1,3 @@
+Conceptos:
+
+.Arrays: son listas de elementos, que pueden estar conformadas por cualquier tipo de datos, incluso funciones.

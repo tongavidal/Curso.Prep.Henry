@@ -1,0 +1,8 @@
+FOR: Es un bucle que tiene una variable para contar las repeticiones, indica hasta cuando se va a repetir el codigo y un paso (como se va a incrementar o disminuir esa variable)
+Sirve para repetir un cierto código N cantidad de veces. Desde un inicio hasta la condición de frenada.
+
+&&: Es un operador logico que significa "and" (booleano and) (y)  y se usa para evaluar dos expresiones. Si ambas expresiones son verdaderas devuelve verdadero, si una es verdadera y otra falsa, devuelve falso y si ambas son falsas devuelve falso.
+
+||: Es un operador logico que significa "or" (booleano or) (o) y se usa para evaluar dos expresiones. Si ambas expresiones son verdaderas devuelve verdadero, si una es verdadera y otra falsa, devuelve verdadero y si ambas son falsas devuelve falso.
+
+!: operador "not", devuleve el valor opuesto booleano del que se pasa. (!==)
