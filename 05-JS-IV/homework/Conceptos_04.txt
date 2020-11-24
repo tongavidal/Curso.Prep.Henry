@@ -1,0 +1,11 @@
+Conceptos:
+
+Objetos: es una colección de propiedades. El concepto es similar al de un array, pero en vez de utilizar indices numéricos, nosotros determinamos los indices (propiedades).
+
+Propiedades: son las caracteristicas propias de un objeto
+
+Métodos:son instrucciones que pueden cambiar los valores que hemos asignado a esas propiedades
+
+Bucle 'for..in': al no tener indices numéricos no podemos utilizar el bucle for clásico. Este bucle actua de manera similar, pero va recorriendo los distintos objetos y sus atributos.
+
+Notación de puntos vs notación de corchetes: con la notación de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave, es mas fácil de escribir y es literal. La notación de corchetes es como llamar a un elemento en una matriz.
